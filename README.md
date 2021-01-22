@@ -5,8 +5,10 @@ This is not my tool , i just copy this tool from other author.You can do gmail b
 
 $ pkg install git -y
 
+$ pkg install python2 -y
+
 $ git clone https://github.com/fh-rabbi/GmailBomber
 
 $ cd GmailBomber
 
-$ python bomb.py
+$ python2 bomb.py
