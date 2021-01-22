@@ -14,3 +14,7 @@ $ git clone https://github.com/fh-rabbi/GmailBomber
 $ cd GmailBomber
 
 $ python2 bomb.py
+
+:skull:Warning:This tool just for educational purpose.So,Don't use this tool for illegal purpose...
+
+i'm not responsible for your any action...
