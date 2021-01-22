@@ -1,6 +1,8 @@
 # GmailBomber
 This is not my tool , i just copy this tool from other author.You can do gmail bombing(spamming) by using this tool.
 
+:point_right:At first login your gmail account in browser,then Go this link (https://myaccount.google.com/lesssecureapps) & enable less secure app access ...
+
 # Follow bellow step for using this tool 
 
 $ pkg install git -y
